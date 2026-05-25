@@ -58,7 +58,7 @@ Describe the technical approach you plan to use (e.g., architecture, training st
 Specify the expected results after training, including at least the target capabilities, benchmark or evaluation criteria. Furthermore, specify whether the outcome is exploratory, an incremental improvement or intended to reach state-of-the-art performance on the given metric.
 
 **Intended Use of the Trained Artifact**
-Explain how you intend to use the resulting model (or artifact) for AIMO3. This could be for further research or experimentation, evaluation, integration into a downstream system,  or an open-source release (with a permissible license) related to your AIMO3 submission(s).
+Explain how you intend to use the resulting model (or artifact) after your submission. This could be for further research or experimentation, evaluation, integration into a downstream system,  or an open-source release (with a permissible license).
 
 #### Run variant main items
 
